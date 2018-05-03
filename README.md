@@ -7,7 +7,7 @@ Applications written by me during my study time in SoftUni:
    - Software Technologies (C# ASP.Net, JavaScript,PHP,Java)(basics)
    
 - JSCore (Javascript)
-  -JavaScript Advanced
+  - JavaScript Advanced
   - JavaScript Fundamentals
   - JavaScript Applications (Handlebars,Jquery,SammyJS)
   
